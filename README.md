@@ -5,3 +5,6 @@ On propose ici un programme en python permettant le calcul de pseudospectre de m
 usage : 
 
 télécharger tout les fichiers dans un même répertoire puis taper la commande Python pseudospectre.py pour lancer le programme.
+
+
+Ces fichiers ont été réalisés par César Mathéus et Anatole Vercelloni dans le cadre de l'ue LU2IN013. Voir le fichier intitulé Rapport pour plus de détails ainsi que pour les références bibliographique.
